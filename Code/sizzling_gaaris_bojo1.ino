@@ -27,5 +27,5 @@ void loop()
     digitalWrite(pinCooler, LOW);
     digitalWrite(pinAlert, LOW);
   }
-  delay(10); // Delay a little bit to improve simulation performance
+  delay(10);
 }
